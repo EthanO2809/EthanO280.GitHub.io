@@ -88,7 +88,7 @@
             "id" : 5,
             "image" : "https://i.postimg.cc/YS4T2mBJ/Screenshot-2023-07-03-094404.png",
             "name" : "Currency Converter",
-            "description" : "As part of my JavaScript exercises, I built a currency converter application using CSS, HTML, Bootstrap, and JavaScript. The application allows users to easily convert currencies with a visually appealing and responsive user interface, powered by JavaScript for dynamic updates and currency conversion logic.",
+            "description" : "As part of my JavaScript exercises, I built a currency converter application using CSS, HTML, Bootstrap, and JavaScript.",
             "github" : "https://github.com/EthanO2809/Currency_Exchange.git",
             "netlify" : "https://super-toffee-995b22.netlify.app/"
         },
