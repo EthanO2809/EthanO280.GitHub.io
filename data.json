@@ -116,26 +116,31 @@
         {
             "id" : 1,
             "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
+            "words" : "Includes Skills Like Non-verbal Communication, Verbal Communication and Visual Communication.",
             "soft" : "Communication"
         },
         {
             "id" : 2,
             "image" : "https://i.postimg.cc/5yzbsrdm/i-Stock-1406909744.jpg",
+            "words" : "Includes my ability to be flexible, build trust give/receive feedback.",
             "soft" : "Leadership Skills"
         },
         {
             "id" : 3,
             "image" : "https://i.postimg.cc/dVyr8sx7/What-is-Team-Player.jpg",
+            "words" : "Includes abilities like Awareness & Collaboration.",
             "soft" : "Team Player"
         },
         {
             "id" : 4,
             "image" : "https://i.postimg.cc/d3SvtKRv/1-8.jpg",
+            "words" : "Includes Skills like Logical Thinking, Ability to do Research & Communication.",
             "soft" : "Analytical Thinker"
         },
         {
             "id" : 5,
             "image" : "https://i.postimg.cc/fyHXzkgL/images.jpg",
+            "words" : "Includes my Trustworthiness & Ability to build a Professional Rapport.",
             "soft" : "Negotiation"
         }
     ],
