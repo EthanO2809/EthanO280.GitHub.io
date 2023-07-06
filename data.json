@@ -115,22 +115,27 @@
     "softskills" : [
         {
             "id" : 1,
+            "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
             "soft" : "Communication"
         },
         {
             "id" : 2,
+            "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
             "soft" : "Leadership Skills"
         },
         {
             "id" : 3,
+            "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
             "soft" : "Team Player"
         },
         {
             "id" : 4,
+            "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
             "soft" : "Analytical Thinker"
         },
         {
             "id" : 5,
+            "image" : "https://i.postimg.cc/43LMV3cC/download-3.jpg",
             "soft" : "Negotiation"
         }
     ],
