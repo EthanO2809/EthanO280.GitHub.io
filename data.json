@@ -55,11 +55,11 @@
         },
         {
             "id" : 2,
-            "image" : "https://i.postimg.cc/wvXJD0dL/Screenshot-2023-07-03-094059.png",
-            "name" : "Temperature Converter",
-            "description" : "I created a temperature converter as a way to grasp the functioning and proper usage of JavaScript functions. The converter specifically converts temperatures from Fahrenheit to degrees Celsius. To build it, I employed Bootstrap, HTML, CSS, and JavaScript.",
-            "github" : "https://github.com/EthanO2809/Temp_Converter.git",
-            "netlify" : "https://frolicking-mooncake-85df14.netlify.app/"
+            "image" : "https://i.postimg.cc/yNcGMCHR/Screenshot-2023-07-03-095343.png",
+            "name" : "E-commerce with Javascript",
+            "description" : "As part of my JavaScript exercises, I developed an e-commerce website using CSS, HTML, Bootstrap, and JavaScript.",
+            "github" : "https://github.com/EthanO2809/e-comFINAL.git",
+            "netlify" : "https://illustrious-zabaione-81c6a6.netlify.app"
         },
         {
             "id" : 3,
@@ -87,11 +87,11 @@
         },
         {
             "id" : 6,
-            "image" : "https://i.postimg.cc/yNcGMCHR/Screenshot-2023-07-03-095343.png",
-            "name" : "E-commerce with Javascript",
-            "description" : "As part of my JavaScript exercises, I developed an e-commerce website using CSS, HTML, Bootstrap, and JavaScript.",
-            "github" : "https://github.com/EthanO2809/e-comFINAL.git",
-            "netlify" : "https://illustrious-zabaione-81c6a6.netlify.app"
+            "image" : "https://i.postimg.cc/wvXJD0dL/Screenshot-2023-07-03-094059.png",
+            "name" : "Temperature Converter",
+            "description" : "I created a temperature converter as a way to grasp the functioning and proper usage of JavaScript functions. The converter specifically converts temperatures from Fahrenheit to degrees Celsius. To build it, I employed Bootstrap, HTML, CSS, and JavaScript.",
+            "github" : "https://github.com/EthanO2809/Temp_Converter.git",
+            "netlify" : "https://frolicking-mooncake-85df14.netlify.app/"
         }
     ],
 
